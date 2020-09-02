@@ -1,7 +1,10 @@
 # TT1964 Database - Group Project
 This repository is about TT1964 Database - Group Project based on given case study which is <strong>SMPWeb UKM</strong>
 
-<h2> The main phases involved in database design </h2>
-<strong>Conceptual database design</strong> – to build the conceptual representation of the database, which includes identification of the important entities, relationships, and attributes. <br>
-<strong>Logical database design</strong> – to translate the conceptual representation to the logical structure of the database, which includes designing the relations. <br>
-  <strong>Physical database design</strong> – to decide how the logical structure is to be physically implemented (as relations) in the target Database Management System (DBMS). <br>
+<h2> Contents </h2>
+<strong>1. Technical Report</strong> <br
+<p>This report consist information related to conceptual database design, logical database design, data definition and data manipulation statement for the case study. <br>
+<strong>2. SMPweb Database File</strong> <br>
+ <p> This file contains SQL Commands and Queries using MS Access
+
+
