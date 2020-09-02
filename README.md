@@ -7,11 +7,11 @@ This course introduces students to the concept of database, modelling, normaliza
 ## Contents
 
 <strong>A. Technical Report</strong> <br>
-This report consist of information that related to the main phases involved in SMPweb database design as below: <br>
-Conceptual database design – to build the conceptual representation of the database, which includes identification of the important entities, relationships, and attributes <br>
-Logical database design – to translate the conceptual representation to the logical structure of the database, which includes designing the relations <br>
-Physical database design – to decide how the logical structure is to be physically implemented (as relations) in the target Database Management System  <br>
+This report is compilation for three report as below: <br>
+Report 1 - consists of information related to conceptual database design for the case study <br>
+Report 2 - consists of information related to logical database design for the case study <br>
+Report 3 - consists of information related to basic of structured query language for the case study <br>
 
-<strong>B. SMPweb Database File</strong> <br>
+<strong>B. Database File</strong> <br>
 This file contains SQL Commands and Queries include Data Definition statement and Data Manipulation statement
 
